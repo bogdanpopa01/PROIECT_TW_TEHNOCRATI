@@ -1,0 +1,6 @@
+1. cd serverSide
+2. npm i
+3. node db.js
+4. node server.js
+
+Testarea cu Postman a rutelor
